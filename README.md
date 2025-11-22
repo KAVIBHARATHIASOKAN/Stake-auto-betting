@@ -71,15 +71,7 @@ This repo helps you visualize:
 
 It’s a mathematical, analytical playground.
 
----
 
-## ⚠️ Disclaimer
-
-This is an **educational simulator**.
-It does **not** bypass protections, interact with real platforms, or automate real betting.
-Use it only to learn and experiment responsibly.
-
----
 
 ## 📝 License
 
