@@ -10,7 +10,6 @@
 
 ## ⚙️ Functionality
 
-The project functions as a compact experimentation platform with:
 
 ### 🎮 Round Simulation
 
